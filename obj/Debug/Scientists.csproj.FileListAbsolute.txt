@@ -1,0 +1,10 @@
+D:\Nika\Scientists\bin\Debug\Scientists.exe.config
+D:\Nika\Scientists\bin\Debug\Scientists.exe
+D:\Nika\Scientists\bin\Debug\Scientists.pdb
+D:\Nika\Scientists\obj\Debug\Scientists.csproj.AssemblyReference.cache
+D:\Nika\Scientists\obj\Debug\Scientists.Scientists.resources
+D:\Nika\Scientists\obj\Debug\Scientists.Properties.Resources.resources
+D:\Nika\Scientists\obj\Debug\Scientists.csproj.GenerateResource.cache
+D:\Nika\Scientists\obj\Debug\Scientists.csproj.CoreCompileInputs.cache
+D:\Nika\Scientists\obj\Debug\Scientists.exe
+D:\Nika\Scientists\obj\Debug\Scientists.pdb

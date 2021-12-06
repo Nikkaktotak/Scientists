@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Scientists>
+  <Scientist
+          Name = "Kobrin Peter Petrovich"
+          Faculty= "FACULTY OF BIOMEDICAL ENGINEERING"
+          Department = "Medicine"
+          Laboratory = "Medical Electronics Laboratory"
+          Position= "Laboratory assistant"
+          Activity= "2003 - present">
+  </Scientist>
+  <Scientist
+          Name = "Loktev Vadim Mikhailovich"
+          Faculty= "FACULTY OF BIOMEDICAL ENGINEERING"
+          Department = "Medicine"
+          Laboratory = "Medical Electronics Laboratory"
+          Position= "Professor"
+          Activity= "1996 - present">
+  </Scientist>
+  <Scientist
+          Name = "Bondarenko Yuri Alexandrovich"
+          Faculty= "FACULTY OF CYBERNETICS"
+          Department = "Math"
+          Laboratory = "Applied Mathematics"
+          Position= "Professor"
+          Activity= "2005 - present">
+  </Scientist>
+</Scientists>
